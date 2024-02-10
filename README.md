@@ -18,9 +18,8 @@ To gain valuable insights into Target's operations in Brazil, to shed light on v
 
 7)This market in brazil is doing successful business in almost all the states.
 
-8)Out of 27 states of Brazil based on highest average order freight, the top 5 states are Roraima(RR), Paraiba(PB), Rondonia 
-  (RO), Acre(AC) and Piaui(PI).
-  
+8)Out of 27 states of Brazil based on highest average order freight, the top 5 states are Roraima(RR), Paraiba(PB), Rondonia (RO), Acre(AC) and Piaui(PI).
+
 9) The top 5 states in Brazil Market based on highest average delivery time are  Roraima(RR), Amapa(AP), Amazonas(AM), 
    Alagoas(AL) and Para(PA).
    
